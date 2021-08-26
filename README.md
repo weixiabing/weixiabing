@@ -47,7 +47,7 @@ if __name__ == '__main__':
 <p>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weixiabing&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&theme=radical">
 <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weixiabing&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=radical"
+    <img align='right' alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weixiabing&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=radical"
 </p>
 </details>
 
