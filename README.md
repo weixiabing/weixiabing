@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
 
 ```
-![](https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/main/assets/github-contribution-grid-snake.svg)               
+![](https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/assets/github-contribution-grid-snake.svg)               
 <details>
 <summary>Click for GitHub Stats</summary>
 <p>
