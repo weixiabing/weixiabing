@@ -48,15 +48,16 @@ if __name__ == '__main__':
 ![](https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/assets/github-contribution-grid-snake.svg)               
 <details>
 <summary>Click for GitHub Stats</summary>
+  <div align=left>
+<img src="https://profile-counter.glitch.me/weixiabing/count.svg" />
+</div>
 <p>
     <img align='left' alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=weixiabing&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555&theme=radical">
     <img align='left' height="170" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weixiabing&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=radical"
 
 </p>
-<br>
-  <div align=left>
-<img src="https://profile-counter.glitch.me/weixiabing/count.svg" />
-</div>
+
+  
 </details>
 
 
