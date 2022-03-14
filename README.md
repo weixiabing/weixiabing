@@ -1,3 +1,7 @@
+
+
+
+
 <h1 align="center">Hi 👋, I'm WeiXiabing</h1>
 
 <p align="center">
@@ -5,7 +9,7 @@
 
   
   ![](https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/header_.png)
- ![Count](https://profile-counter.glitch.me/weixiabing/count.svg)
+
 
 
 
@@ -49,6 +53,10 @@ if __name__ == '__main__':
     <img align='left' height="170" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weixiabing&hide=html,&hide_border=true&title_color=5391FE&text_color=555&theme=radical"
 
 </p>
+<br>
+  <div align=left>
+<img src="https://profile-counter.glitch.me/weixiabing/count.svg" />
+</div>
 </details>
 
 
