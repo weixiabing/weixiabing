@@ -28,8 +28,7 @@ class WeiXiabing:
         self.twitter = '@wwuuy'
         self.code = {
             'backend': ['Java', 'Spring Boot', 'Spring Framework', 'Hibernate', 'REST APIs', 'Microservices'],
-            '3D_reconstruction': ['Open3D', 'COLMAP', 'Meshroom', 'Structure-from-Motion (SfM)', 'Multi-View Stereo (MVS)'],
-            '3DGS': ['Gaussian Splatting', 'CUDA', 'PyTorch3D', '3D Scene Rendering', 'NeRF']
+            '3D_reconstruction': ['3DGS', 'COLMAP', 'Meshroom', 'Structure-from-Motion (SfM)', 'NeRF'],
         }
         self.database = ['PostgreSQL', 'MySQL', 'MongoDB']
         self.devops = ['Docker', 'Kubernetes', 'Jenkins', 'AWS', 'GitHub Actions']
