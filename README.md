@@ -23,18 +23,18 @@
 class WeiXiabing:
 
     def __init__(self):
-        self.username = 'WeiXiabing'
-        self.name = 'Wei Xiabing'
+        self.username = 'weixiabing'
+        self.name = 'Xiabing Wei'
         self.twitter = '@wwuuy'
         self.code = {
-            'frontend': [ 'JavaScript','HTML', 'CSS', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'C', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'backend': ['Java', 'Spring Boot', 'Spring Framework', 'Hibernate', 'REST APIs', 'Microservices'],
+            '3D_reconstruction': ['Open3D', 'COLMAP', 'Meshroom', 'Structure-from-Motion (SfM)', 'Multi-View Stereo (MVS)'],
+            '3DGS': ['Gaussian Splatting', 'CUDA', 'PyTorch3D', '3D Scene Rendering', 'NeRF']
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+        self.database = ['PostgreSQL', 'MySQL', 'MongoDB']
+        self.devops = ['Docker', 'Kubernetes', 'Jenkins', 'AWS', 'GitHub Actions']
+        self.tools = ['GIT', 'GitHub', 'PyCharm', 'IntelliJ IDEA', 'Postman', 'Swagger']
+        self.architecture = ['Microservices', 'MVC', 'Event-Driven Architecture', 'Serverless']
 
     def __str__(self):
         return self.name
@@ -42,6 +42,7 @@ class WeiXiabing:
 
 if __name__ == '__main__':
     me = WeiXiabing()
+    print(me)
 
 
 ```
