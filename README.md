@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm WeiXiabing</h1>
+<h1 align="center">Hi 👋, I'm Xiabing Wei</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/file/1.webp" width="100"><img src="https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/file/2.webp" width="100"><img src="https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/file/3.webp" width="100"><img src="https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/file/4.webp" width="100"><img src="https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/file/5.webp" width="100"><img src="https://cdn.jsdelivr.net/gh/weixiabing/weixiabing/file/6.webp" width="100"><br><br>
