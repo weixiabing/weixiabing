@@ -27,11 +27,11 @@ class WeiXiabing:
         self.name = 'Xiabing Wei'
         self.twitter = '@wwuuy'
         self.code = {
-            'backend': ['Java', 'Spring Boot', 'Spring Framework', 'Hibernate', 'REST APIs', 'Microservices'],
-            '3D_reconstruction': ['3DGS', 'COLMAP', 'Meshroom', 'Structure-from-Motion (SfM)', 'NeRF'],
+            'backend': ['Java', 'Spring Boot', 'Spring Framework', 'Microservices'],
+            '3D_reconstruction': ['3DGS', 'Panoramic View Synthesis'],
         }
-        self.database = ['PostgreSQL', 'MySQL', 'MongoDB']
-        self.devops = ['Docker', 'Kubernetes', 'Jenkins', 'AWS', 'GitHub Actions']
+        self.database = ['MySQL']
+        self.devops = ['Docker', 'GitHub Actions']
         self.tools = ['GIT', 'GitHub', 'PyCharm', 'IntelliJ IDEA', 'Postman', 'Swagger']
         self.architecture = ['Microservices', 'MVC', 'Event-Driven Architecture', 'Serverless']
 
