@@ -25,7 +25,7 @@ class WeiXiabing:
     def __init__(self):
         self.username = 'weixiabing'
         self.name = 'Xiabing Wei'
-        self.twitter = '@wwuuy'
+        self.email= 'weixiabing@hotmail.com'
         self.code = {
             'backend': ['Java', 'Spring Boot', 'Spring Framework', 'Microservices'],
             '3D_reconstruction': ['3DGS', 'Panoramic View Synthesis'],
